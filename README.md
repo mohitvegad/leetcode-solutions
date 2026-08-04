@@ -31,4 +31,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/mohitvegad/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
