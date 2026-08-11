@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/mohitvegad/leetcode-solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Database
 |  |
