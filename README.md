@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/mohitvegad/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
