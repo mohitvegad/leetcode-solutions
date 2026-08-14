@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1732-find-the-highest-altitude](https://github.com/mohitvegad/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
@@ -204,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1732-find-the-highest-altitude](https://github.com/mohitvegad/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
