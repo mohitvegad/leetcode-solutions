@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/mohitvegad/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/mohitvegad/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2000-reverse-prefix-of-word](https://github.com/mohitvegad/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/mohitvegad/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
@@ -253,8 +257,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/mohitvegad/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitvegad/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
