@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitvegad/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/mohitvegad/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/mohitvegad/leetcode-solutions/tree/master/0322-coin-change) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohitvegad/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitvegad/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/mohitvegad/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/mohitvegad/leetcode-solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/mohitvegad/leetcode-solutions/tree/master/0343-integer-break) |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/mohitvegad/leetcode-solutions/tree/master/0355-design-twitter) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mohitvegad/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
