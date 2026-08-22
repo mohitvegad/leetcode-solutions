@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0503-next-greater-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/mohitvegad/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2000-reverse-prefix-of-word](https://github.com/mohitvegad/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitvegad/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
