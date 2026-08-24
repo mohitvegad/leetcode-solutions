@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mohitvegad/leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mohitvegad/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/mohitvegad/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mohitvegad/leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Simulation
 |  |
