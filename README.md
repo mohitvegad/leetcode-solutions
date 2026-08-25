@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/mohitvegad/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mohitvegad/leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohitvegad/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2848-points-that-intersect-with-cars](https://github.com/mohitvegad/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/mohitvegad/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/mohitvegad/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mohitvegad/leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Simulation
 |  |
