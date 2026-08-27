@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1859-sorting-the-sentence](https://github.com/mohitvegad/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/mohitvegad/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Math
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohitvegad/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohitvegad/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/mohitvegad/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
