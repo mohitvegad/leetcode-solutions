@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/mohitvegad/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/mohitvegad/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohitvegad/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -337,4 +339,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
