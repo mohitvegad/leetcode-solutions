@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mohitvegad/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/mohitvegad/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0946-validate-stack-sequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitvegad/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/mohitvegad/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitvegad/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/mohitvegad/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1603-design-parking-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mohitvegad/leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Queue
