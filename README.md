@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohitvegad/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mohitvegad/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1539-kth-missing-positive-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohitvegad/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohitvegad/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/mohitvegad/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/mohitvegad/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
