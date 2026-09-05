@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/mohitvegad/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0441-arranging-coins](https://github.com/mohitvegad/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/mohitvegad/leetcode-solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/mohitvegad/leetcode-solutions/tree/master/0343-integer-break) |
+| [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -435,4 +439,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mohitvegad/leetcode-solutions/tree/master/0146-lru-cache) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
