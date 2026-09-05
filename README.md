@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/mohitvegad/leetcode-solutions/tree/master/0343-integer-break) |
 | [0382-linked-list-random-node](https://github.com/mohitvegad/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/mohitvegad/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/mohitvegad/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0273-integer-to-english-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0390-elimination-game](https://github.com/mohitvegad/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
