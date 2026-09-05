@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/mohitvegad/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/mohitvegad/leetcode-solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mohitvegad/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2848-points-that-intersect-with-cars](https://github.com/mohitvegad/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1603-design-parking-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1603-design-parking-system) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Quicksort
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1089-duplicate-zeros](https://github.com/mohitvegad/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/mohitvegad/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/mohitvegad/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2439-minimize-maximum-of-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Bit Manipulation
 |  |
 | ------- |
