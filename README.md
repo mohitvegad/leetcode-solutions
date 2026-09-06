@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohitvegad/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohitvegad/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohitvegad/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohitvegad/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohitvegad/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mohitvegad/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
