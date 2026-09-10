@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohitvegad/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mohitvegad/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohitvegad/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/mohitvegad/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mohitvegad/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
