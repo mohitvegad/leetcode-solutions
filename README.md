@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mohitvegad/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mohitvegad/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohitvegad/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mohitvegad/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/mohitvegad/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/mohitvegad/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1603-design-parking-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -404,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/mohitvegad/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -520,8 +526,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
