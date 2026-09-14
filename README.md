@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohitvegad/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mohitvegad/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohitvegad/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/mohitvegad/leetcode-solutions/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohitvegad/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/mohitvegad/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/mohitvegad/leetcode-solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/mohitvegad/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohitvegad/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/mohitvegad/leetcode-solutions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/mohitvegad/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mohitvegad/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mohitvegad/leetcode-solutions/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search Tree
 |  |
