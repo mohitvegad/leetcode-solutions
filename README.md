@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/mohitvegad/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohitvegad/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohitvegad/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/mohitvegad/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1656-design-an-ordered-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
 | [1763-longest-nice-substring](https://github.com/mohitvegad/leetcode-solutions/tree/master/1763-longest-nice-substring) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/mohitvegad/leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/mohitvegad/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitvegad/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+| [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
@@ -612,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0731-my-calendar-ii) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
