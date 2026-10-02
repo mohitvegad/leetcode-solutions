@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/mohitvegad/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
+| [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/mohitvegad/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mohitvegad/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1710-maximum-units-on-a-truck](https://github.com/mohitvegad/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/mohitvegad/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1763-longest-nice-substring](https://github.com/mohitvegad/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [1859-sorting-the-sentence](https://github.com/mohitvegad/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mohitvegad/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitvegad/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
+| [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -620,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0792-number-of-matching-subsequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
+| [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Union-Find
 |  |
 | ------- |
