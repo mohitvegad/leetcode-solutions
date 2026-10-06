@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/mohitvegad/leetcode-solutions/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/mohitvegad/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/mohitvegad/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/mohitvegad/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/mohitvegad/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
