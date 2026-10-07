@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/mohitvegad/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/mohitvegad/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/mohitvegad/leetcode-solutions/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/mohitvegad/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mohitvegad/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/mohitvegad/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/mohitvegad/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohitvegad/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1763-longest-nice-substring](https://github.com/mohitvegad/leetcode-solutions/tree/master/1763-longest-nice-substring) |
