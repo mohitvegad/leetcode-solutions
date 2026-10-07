@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mohitvegad/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/mohitvegad/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohitvegad/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1486-xor-operation-in-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1763-longest-nice-substring](https://github.com/mohitvegad/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Pigeonhole Principle
