@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/mohitvegad/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0096-unique-binary-search-trees](https://github.com/mohitvegad/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0273-integer-to-english-words) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mohitvegad/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mohitvegad/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/mohitvegad/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/mohitvegad/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/mohitvegad/leetcode-solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0337-house-robber-iii) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohitvegad/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohitvegad/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohitvegad/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mohitvegad/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mohitvegad/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohitvegad/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
