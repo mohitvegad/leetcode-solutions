@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1286-iterator-for-combination](https://github.com/mohitvegad/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1544-make-the-string-great](https://github.com/mohitvegad/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1763-longest-nice-substring](https://github.com/mohitvegad/leetcode-solutions/tree/master/1763-longest-nice-substring) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohitvegad/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/mohitvegad/leetcode-solutions/tree/master/0784-letter-case-permutation) |
+| [1286-iterator-for-combination](https://github.com/mohitvegad/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
+| [1286-iterator-for-combination](https://github.com/mohitvegad/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
@@ -721,4 +724,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/mohitvegad/leetcode-solutions/tree/master/0284-peeking-iterator) |
+| [1286-iterator-for-combination](https://github.com/mohitvegad/leetcode-solutions/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
