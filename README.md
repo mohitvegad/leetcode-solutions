@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/mohitvegad/leetcode-solutions/tree/master/1763-longest-nice-substring) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mohitvegad/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2094-finding-3-digit-even-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2848-points-that-intersect-with-cars](https://github.com/mohitvegad/leetcode-solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Sorting
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1603-design-parking-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1603-design-parking-system) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/mohitvegad/leetcode-solutions/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Quicksort
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1603-design-parking-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1656-design-an-ordered-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/1656-design-an-ordered-stream) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Matrix
 |  |
 | ------- |
