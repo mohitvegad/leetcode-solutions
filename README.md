@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/mohitvegad/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/mohitvegad/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [1068-product-sales-analysis-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 ## Concurrency
 |  |
 | ------- |
