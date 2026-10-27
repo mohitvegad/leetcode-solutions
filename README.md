@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohitvegad/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohitvegad/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/mohitvegad/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0731-my-calendar-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mohitvegad/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohitvegad/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohitvegad/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-number-of-matching-subsequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/mohitvegad/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/mohitvegad/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohitvegad/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohitvegad/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/mohitvegad/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
