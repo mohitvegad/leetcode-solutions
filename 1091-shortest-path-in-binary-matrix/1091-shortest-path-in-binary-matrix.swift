@@ -21,9 +21,9 @@ class Solution {
             var row = current.0
             var col = current.1
 
-            if row == n - 1 && col == n - 1 {
-                return distance[row][col]
-            }
+            // if row == n - 1 && col == n - 1 {
+            //     return distance[row][col]
+            // }
 
             for dir in 0..<direction.count {
                 var nr = row + direction[dir].0
