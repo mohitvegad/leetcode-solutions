@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohitvegad/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/mohitvegad/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/1146-snapshot-array) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohitvegad/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/mohitvegad/leetcode-solutions/tree/master/0079-word-search) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search Tree
 |  |
