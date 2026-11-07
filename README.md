@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/mohitvegad/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0622-design-circular-queue](https://github.com/mohitvegad/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/mohitvegad/leetcode-solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/mohitvegad/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mohitvegad/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/mohitvegad/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0384-shuffle-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0622-design-circular-queue](https://github.com/mohitvegad/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0731-my-calendar-ii) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/mohitvegad/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/mohitvegad/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/mohitvegad/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohitvegad/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/mohitvegad/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Reservoir Sampling
 |  |
