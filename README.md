@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mohitvegad/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mohitvegad/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/mohitvegad/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mohitvegad/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/mohitvegad/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohitvegad/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mohitvegad/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mohitvegad/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Knapsack Problem
 |  |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mohitvegad/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/mohitvegad/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohitvegad/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mohitvegad/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/mohitvegad/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/mohitvegad/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Divide and Conquer
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohitvegad/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mohitvegad/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0897-increasing-order-search-tree](https://github.com/mohitvegad/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/mohitvegad/leetcode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -728,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mohitvegad/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mohitvegad/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -745,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0284-peeking-iterator](https://github.com/mohitvegad/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [1286-iterator-for-combination](https://github.com/mohitvegad/leetcode-solutions/tree/master/1286-iterator-for-combination) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/mohitvegad/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
