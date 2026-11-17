@@ -1,55 +1,61 @@
 
 class Solution {
+
     func findCheapestPrice(_ n: Int, _ flights: [[Int]], _ src: Int, _ dst: Int, _ k: Int) -> Int {
 
         var adj = Array(repeating: [[Int]](), count: n)
 
         for flight in flights {
-            let from = flight[0]
-            let to = flight[1]
-            let price = flight[2]
-
-            adj[from].append([to, price])
+            adj[flight[0]].append([flight[1], flight[2]])
         }
 
-        var dist = Array(repeating: Int.max, count: n)
-        dist[src] = 0
+        var pq = [[Int]]()
+        pq.append([0, src, 0])
 
-        var queue = [[Int]]()
-        queue.append([src, 0])
+        var best = Array(
+            repeating: Array(repeating: Int.max, count: k + 2),
+            count: n
+        )
 
-        var stops = 0
-        var index = 0
+        best[src][0] = 0
 
-        while index < queue.count && stops <= k {
+        while !pq.isEmpty {
 
-            let size = queue.count - index
+            // Find and remove the entry with minimum cost
+            let minIndex = pq.indices.min {
+                pq[$0][0] < pq[$1][0]
+            }!
 
-            for _ in 0..<size {
+            let curr = pq.remove(at: minIndex)
 
-                let current = queue[index]
-                index += 1
+            let cost = curr[0]
+            let city = curr[1]
+            let stops = curr[2]
 
-                let city = current[0]
-                let price = current[1]
-
-                for edge in adj[city] {
-
-                    let nextCity = edge[0]
-                    let ticketPrice = edge[1]
-
-                    let newPrice = price + ticketPrice
-
-                    if newPrice < dist[nextCity] {
-                        dist[nextCity] = newPrice
-                        queue.append([nextCity, newPrice])
-                    }
-                }
+            if city == dst {
+                return cost
             }
 
-            stops += 1
+            if stops == k + 1 {
+                continue
+            }
+
+            for edge in adj[city] {
+
+                let nextCity = edge[0]
+                let price = edge[1]
+                let newCost = cost + price
+                let newStops = stops + 1
+
+                if newCost < best[nextCity][newStops] {
+
+                    best[nextCity][newStops] = newCost
+
+                    pq.append([newCost, nextCity, newStops])
+                }
+            }
         }
 
-        return dist[dst] == Int.max ? -1 : dist[dst]
+        return -1
     }
 }
