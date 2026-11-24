@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/mohitvegad/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/mohitvegad/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/mohitvegad/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/mohitvegad/leetcode-solutions/tree/master/1251-average-selling-price) |
 ## Concurrency
