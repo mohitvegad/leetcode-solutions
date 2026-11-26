@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/mohitvegad/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/mohitvegad/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/mohitvegad/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
+| [3436-find-valid-emails](https://github.com/mohitvegad/leetcode-solutions/tree/master/3436-find-valid-emails) |
 ## Concurrency
 |  |
 | ------- |
